@@ -2,12 +2,12 @@
 
 ## Table of Content
 
-- [Project Overview](project overview)
-- [Data Sources](Data Sources)
+- [ProjectOverview](projectoverview)
+- [DataSources](DataSources)
 - [Tools](tools)
-- [Data Cleaning/Preparation](data cleaning/findings)
-- [Exploratory Data Analysis](exploratory data analysis0
-- [Data Analysis](data analysis)
+- [DataCleaning/Preparation](datacleaning/findings)
+- [ExploratoryDataAnalysis](exploratorydataanalysis)
+- [DataAnalysis](dataanalysis)
 - [Results/Findings](result/findings)
 - [Recommendations](recommendations)
 - [Limitations](limitations)
@@ -141,8 +141,6 @@ Here are some limitations of the analysis, which could impact the insights and r
 
 While the Analysis provides valuable insights, these limiations highlight the need for caution in interpretations. Collecting additional data (such as product costs, inventory levels, and more detailed customer demographic) and expanding the timeframe can enhance accuracy and lead to a more comprehensive understanding of business performance.
 
-[Headings1][Heading2]
-[---------][--------]
 
    
 
