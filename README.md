@@ -26,11 +26,10 @@ Updated Amazon Sales
 ### Tools
 
 - Excel - Data Cleaning
-- SQL Server - Data Analysis
-
-   [Dowload here](https://SQL management studio.com)
   
-- PowerBI - Creating reports and Dashboard
+- SQL Server - Query Based Analysis
+  
+- PowerBI - Reports and Dashboard
 
 ### Data Cleaning/Preparation
 
