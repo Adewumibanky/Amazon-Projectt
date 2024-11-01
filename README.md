@@ -20,9 +20,7 @@ The insights will help in understanding factors influencing sales and in develop
 
 ### Data Sources
 
-External Economic and Demographic Data
-Competitor and Industry Benchmarks Reports
-Seasonal and Calendar Data
+Updated Amazon Sales
 
 
 ### Tools
