@@ -2,16 +2,16 @@
 
 ## Table of Content
 
-- [ProjectOverview](projectoverview)
-- [DataSources](DataSources)
-- [Tools](tools)
-- [DataCleaning/Preparation](datacleaning/findings)
-- [ExploratoryDataAnalysis](exploratorydataanalysis)
-- [DataAnalysis](dataanalysis)
-- [Results/Findings](result/findings)
-- [Recommendations](recommendations)
-- [Limitations](limitations)
-- [Conclusion](conclusions)
+- [ProjectOverview](#projectoverview)
+- [DataSources](#DataSources)
+- [Tools](#tools)
+- [DataCleaning/Preparation](#datacleaning/findings)
+- [ExploratoryDataAnalysis](#exploratorydataanalysis)
+- [DataAnalysis](#dataanalysis)
+- [Results/Findings](#result/findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [Conclusion](#conclusions)
 
 ### Project Overview
 
